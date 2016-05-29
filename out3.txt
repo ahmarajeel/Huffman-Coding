@@ -1,0 +1,12 @@
+fb 6 NULL f b
+Inserting 6: listHead->"(dummy,0,a)->(a,5,fb)->(fb,6,g)->(g,7,d)->(d,10,c)->(c,12,e)->(e,60,NULL)->NULL
+afb 11 NULL a fb
+Inserting 11: listHead->"(dummy,0,g)->(g,7,d)->(d,10,afb)->(afb,11,c)->(c,12,e)->(e,60,NULL)->NULL
+gd 17 NULL g d
+Inserting 17: listHead->"(dummy,0,afb)->(afb,11,c)->(c,12,gd)->(gd,17,e)->(e,60,NULL)->NULL
+afbc 23 NULL afb c
+Inserting 23: listHead->"(dummy,0,gd)->(gd,17,afbc)->(afbc,23,e)->(e,60,NULL)->NULL
+gdafbc 40 NULL gd afbc
+Inserting 40: listHead->"(dummy,0,gdafbc)->(gdafbc,40,e)->(e,60,NULL)->NULL
+gdafbce 100 NULL gdafbc e
+Inserting 100: listHead->"(dummy,0,gdafbce)->(gdafbce,100,NULL)->NULL

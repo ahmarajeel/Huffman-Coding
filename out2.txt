@@ -1,0 +1,13 @@
+gdafbce 100 NULL gdafbc e
+gdafbc 40 e gd afbc
+gd 17 afbc g d
+g 7 d NULL NULL
+d 10 afb NULL NULL
+afbc 23 e afb c
+afb 11 c a fb
+a 5 fb NULL NULL
+fb 6 g f b
+f 3 b NULL NULL
+b 3 a NULL NULL
+c 12 gd NULL NULL
+e 60 NULL NULL NULL
